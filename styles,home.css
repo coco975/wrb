@@ -20,6 +20,7 @@
     }
 
   .container {
+    position: sticky;
     height: 70px;
     border: 2px solid black;
     display: flex;
